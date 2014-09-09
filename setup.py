@@ -2,8 +2,8 @@ from distutils.core import setup
 
 setup(
     name='urlutils',
-    version='0.0.5',
-    packages=['urlutils',],
+    version='0.0.6',
+    packages=['urlutils.urlutils',],
     include_package_data = True,
     license='BSD Licence',
     long_description=open('README.md').read(),

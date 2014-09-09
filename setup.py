@@ -2,8 +2,11 @@ from distutils.core import setup
 
 setup(
     name='urlutils',
-    version='0.1.4',
+    version='0.0.5',
     packages=['urlutils',],
-    license='Creative Commons Attribution-Noncommercial-Share Alike license',
+    include_package_data = True,
+    license='BSD Licence',
     long_description=open('README.md').read(),
+    author = 'Kristjan Eldjarn Hjorleifsson',
+    author_email = 'kristjan@eldjarn.net',
 )

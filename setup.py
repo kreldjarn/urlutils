@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='urlutils',
-    version='0.0.7',
+    version='0.0.8',
     packages=['urlutils',],
     include_package_data = True,
     license='BSD Licence',

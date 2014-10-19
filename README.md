@@ -19,4 +19,4 @@ Note:
 
 
 ####DEVELOPMENT
-Implement an abstract Django model that has a unique reference field
+Implement an abstract Django model that has a unique reference field and have it automatically populated on creation.
